@@ -1,0 +1,15 @@
+.md-content blockquote {
+    background-color: #f3c4a5 !important;
+    border-left: 5px solid #808080 !important;
+    color: #333333 !important;
+}
+
+/* Change background color */
+footer {
+    background-color: #043F61 !important;
+}
+
+/* Change font color */
+footer p {
+    color: white !important;
+}
